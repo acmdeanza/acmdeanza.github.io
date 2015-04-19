@@ -1,0 +1,20 @@
+.home .text-vcenter{
+    color: rgba(255,255,255,1);
+}
+
+.block {
+  background: rgba(250, 250, 250, 0.0);
+}
+
+.img-responsive {margin:0 auto;}
+
+.custom-top {
+    text-align: right;
+    color: rgba(255,255,255,1);
+    padding: 10%;
+}
+
+.col-md-4 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
