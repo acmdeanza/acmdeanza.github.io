@@ -7,3 +7,5 @@ Possible solutions
 - Use em/% more so size is relative to browser
 - something fixed?
 - margins / padding?
+
+[Setting up a custom domain with GitHub Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
